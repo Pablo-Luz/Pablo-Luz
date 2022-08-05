@@ -1,7 +1,7 @@
 - 👋 Oie, eu sou o @Pablo-Luz
 - 👀 Eu sou interessado em Ciência e Análise de Dados
 - 🌱 Atualmente estou aprendendo Ciência de Dados(Tecnólogo) na Estácio
-- 💞️ Estou buscando trabalhar como Analista de Dados
+- 💞️ Estou buscando atuar como Analista de Dados
 - 📫 Como me encontrar:
 -   Whatsapp: wa.me/5562991858966
 -   Email: pabloluz.contato@gmail.com
